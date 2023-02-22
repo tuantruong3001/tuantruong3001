@@ -26,7 +26,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio&logoColor=007ACC" alt="Visual Studio logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
@@ -51,16 +51,16 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="" target="blank">
+  <a href="https://github.com/tuantruong3001" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
-  <a href="" target="blank">
+  <a href="https://github.com/tuantruong3001" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="" />
   </a>
-  <a href="" target="blank">
+  <a href="https://github.com/tuantruong3001" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
   </a>
-  <a href="" target="blank">
+  <a href="https://github.com/tuantruong3001" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
   <a href="mailto:tuantruongvan3001@gmail.com" target="top">
