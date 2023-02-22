@@ -10,7 +10,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSharp%20CSS-282C34?logo=cSharp-css&logoColor=38B2AC" alt="CSharp logo" title="CSharp" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=cSharp-css&logoColor=38B2AC" alt="CSharp logo" title="CSharp" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp;
@@ -43,7 +43,6 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tuantruong3001&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
 <br>
 <div>
 <h2 align="center">👽 Where to find me 👽</h2>
