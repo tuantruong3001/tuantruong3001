@@ -70,5 +70,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/tuantruong3001-qotes.svg" width="846" height="150" alt="tuantruong3001" />
+  <img src="svg/tuantruong3001-quotes.svg" width="846" height="150" alt="tuantruong3001" />
 </a>
